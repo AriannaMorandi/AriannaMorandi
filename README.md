@@ -13,9 +13,6 @@ I'm currently pursuing a Master's Degree in Data Science at the University of Pa
   - Data Analyst and Social Media Manager (2021 - Present), Peri Arreda (interior design store), Montichiari, Italy
     - Led data analysis projects to provide insights for business decisions
     - Managed social media content creation and strategy to enhance brand visibility
-- 🏆 VOLUNTEERING EXPERIENCE
-  - Scout Master (2019 - 2022), scout member since 2009
-    - Organized events and activities, fostering leadership and teamwork
 - 🛠 TECHNICAL SKILLS
   - Languages: Python, R, LaTeX
   - Software: Microsoft Office, Canva, Adobe Premiere
